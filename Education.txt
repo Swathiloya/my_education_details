@@ -1,0 +1,6 @@
+S.no*Name*Education
+1*swathi*8th_class
+2*swathi*9th_class
+3*swathi*10th_class
+4*swathi*inter
+5*swathi*degree
